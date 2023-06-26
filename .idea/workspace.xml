@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8f64f6c9-c8b5-4af4-8efe-52a12ac3870a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/LICENSE.chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Methdos/Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/first/automation/FirstAutomation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/registration/TestNewFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/Futter/Categories/Audio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/Futter/Categories/TechniksApple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/Futter/Citrus/Citrus10B2B.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/Futter/Citrus/Citrus1Carier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/Futter/Citrus/Citrus2ForSMI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/Futter/Citrus/Citrus3News.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/Futter/Citrus/Citrus4BlackFriday.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/Futter/Citrus/Citrus5Blog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/Futter/Citrus/Citrus6AboutCompany.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/Futter/Citrus/Citrus7OPTClients.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/Futter/Citrus/Citrus8Supports.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/Futter/Citrus/Citrus9Stores.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/Futter/Citrus/Links.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/Futter/Citrus/Methods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/Futter/Citrus/XpathFutter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2MxDdTGM55QmmuGHoeKkdpXp5cu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/LENOVO/.jdks/openjdk-20.0.1",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "File.Encoding"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Рабочий стол\citrus_tests" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Рабочий стол\testdevo\src\test\java\registration" />
+      <recent name="C:\citrus_tests" />
+      <recent name="C:\citrus_tests\src\test\java" />
+      <recent name="C:\citrus_tests\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="InstrumentDostavki" />
+      <recent name="BuyProduct" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.RegistrationPositive.FutterCheck1Carrier (1)">
+    <configuration name="FirstAutomation" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testForCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="first.automation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="first.automation" />
+      <option name="MAIN_CLASS_NAME" value="first.automation.FirstAutomation" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstAutomation.FirstTestMethod" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testForCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="first.automation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="first.automation" />
+      <option name="MAIN_CLASS_NAME" value="first.automation.FirstAutomation" />
+      <option name="METHOD_NAME" value="FirstTestMethod" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistrationNegative.FutterCheck1Carrier (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testForCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="registration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="registration" />
+      <option name="MAIN_CLASS_NAME" value="registration.RegistrationNegative" />
+      <option name="METHOD_NAME" value="FutterCheck1Carrier" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistrationPositive.FutterCheck1Carrier (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testForCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="registration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="registration" />
+      <option name="MAIN_CLASS_NAME" value="registration.RegistrationPositive" />
+      <option name="METHOD_NAME" value="FutterCheck1Carrier" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNewFunction.TestTaskJira777" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="citrusTests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="registration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="registration" />
+      <option name="MAIN_CLASS_NAME" value="registration.TestNewFunction" />
+      <option name="METHOD_NAME" value="TestTaskJira777" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.RegistrationPositive.FutterCheck1Carrier (1)" />
+        <item itemvalue="TestNG.RegistrationNegative.FutterCheck1Carrier (1)" />
+        <item itemvalue="TestNG.FirstAutomation.FirstTestMethod" />
+        <item itemvalue="TestNG.FirstAutomation" />
+        <item itemvalue="TestNG.TestNewFunction.TestTaskJira777" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f64f6c9-c8b5-4af4-8efe-52a12ac3870a" name="Changes" comment="" />
+      <created>1678700427692</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678700427692</updated>
+      <workItem from="1687353103945" duration="25650000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

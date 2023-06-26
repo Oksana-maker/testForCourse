@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+
+<suite name="All Test Suite">
+    <test name="Test1">
+        <classes>
+            <class name="tests.citrus.RegistrationWithEmail"></class>
+            <class name="tests.citrus.RegistrationWithPhone"></class>
+            <class name="tests.citrus.Authorization"></class>
+
+
+        </classes>
+    </test>
+</suite>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <!--    <test verbose="2" preserve-order="true" name="C:/other/CucumberFramework/MyTests">-->
+        <!--        <classes>-->
+
+        <!--            <class name="tests_header.Test1"></class>-->
+        <!--            <class name="tests_header.Test2"></class>-->
+
+        <!--        </classes>-->
+
+        <!--        <packages>-->
+        <!--            <package name="tests_header"></package>-->
+        <!--        </packages>-->
+        <!--    </test>-->
